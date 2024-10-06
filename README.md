@@ -14,53 +14,7 @@ The built-in LED will blink 5 times when a password is posted.
 
 <b>V. 2.0 (Fake sign in)</b>: https://github.com/125K/ESP8266_WiFi_Captive_Portal_2.0
 
-# Showcase
 
-<a target="_blank" href="https://youtu.be/v4-5oX3RG94"><img width="700px" src="https://raw.githubusercontent.com/125K/ESP8266_WiFi_Captive_Portal/master/src/thumbnail.png"></a>
-
-# Screenshots
-
-<table>
-  <tr>
-    <th>172.0.0.1/index</th>
-    <th>172.0.0.1/post</th> 
-    <th>172.0.0.1/pass</th>
-    <th>172.0.0.1/ssid</th>
-  </tr>
-  <tr>
-    <td>This is the main page. Here the user will write his password and send it.</td>
-    <td>This is the post page. The user will be redirected here after posting the password.</td>
-    <td>This is where the attacker can retrieve all the passwords that has been posted.</td>
-    <td>Here the attacker can change the SSID name of the Access Point on the go.</td>
-  <tr>
-    <td><img width="200px" src="https://raw.githubusercontent.com/BlueArduino20/ESP8266_WiFi_Captive_Portal/master/src/1_Index_2.jpg" title="index"></td>
-    <td><img width="200px" src="https://raw.githubusercontent.com/BlueArduino20/ESP8266_WiFi_Captive_Portal/master/src/2_Post.jpg" title="post"></td>
-    <td><img width="200px" src="https://raw.githubusercontent.com/BlueArduino20/ESP8266_WiFi_Captive_Portal/master/src/3_Pass.jpg" title="pass"></td>
-<td><img width="200px" src="https://raw.githubusercontent.com/BlueArduino20/ESP8266_WiFi_Captive_Portal/master/src/4_ssid.jpg" title="ssid"></td>
-  </tr>
-</table>
-
-Here you can donate if you liked my project and you want to support me:
-
-<a href="https://www.buymeacoffee.com/rSiZtB3" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-# Installation (ESP8266 Flasher - Easy way)
-
-1. Download <a href="https://github.com/nodemcu/nodemcu-flasher"><b>ESP8266 Flasher</b></a>.
-
-2. Download the <b><a href="https://github.com/125K/ESP8266_WiFi_Captive_Portal/releases/download/1.1/release.bin">release.bin</b></a> file.
-
-3. Open the ESP8266 Flasher and select the Node MCU port
-
-<img width="80%" src="https://raw.githubusercontent.com/BlueArduino20/ESP8266_WiFi_Captive_Portal_2.0/master/src/1_port_selection.PNG">
-
-4. Then, go to the config tab and select the .bin file you've just downloaded.
-
-<img width="80%" src="https://raw.githubusercontent.com/BlueArduino20/ESP8266_WiFi_Captive_Portal_2.0/master/src/2_file_selection.png">
-
-5. Finally, go back to the first tab and press "Flash"
-
-6. Your Node MCU is ready!
 
 # Installation (Arduino IDE)
 
