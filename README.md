@@ -28,9 +28,6 @@ The built-in LED will blink 5 times when a password is posted.
 7. You are done!
 
 
-## Check out my other projects
+## Credit Owner is 
+https://github.com/125K
 
-- **WiFi-Spam**: :email::satellite: Spam thousands of WiFi access points with custom SSIDs.
-  - https://github.com/125K/WiFi-Spam
-- **PwrDeauther**: :zap: Deauth a specific WiFi access point or an entire channel.
-  - https://github.com/125K/PwrDeauther
